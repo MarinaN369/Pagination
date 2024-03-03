@@ -32,6 +32,7 @@ ul li.btn {
     border-radius: 50px;
     cursor: pointer;
     transition-duration: 100ms;
+    box-shadow: inset 0 0 0 1px rgb(0, 0, 0)
 }
 .next, .next2 {
     background-color: rgb(255, 255, 0);
@@ -52,6 +53,7 @@ ul li.btn {
     cursor: default;
     padding: 15px 20px;
     border-radius: 50px;
+    box-shadow: inset 0 0 0 1px rgb(0, 0, 0)
 }
 
 .active {
